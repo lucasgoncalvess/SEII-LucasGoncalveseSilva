@@ -1,3 +1,4 @@
-# SEII-Lucas Gonçalves e Silva
-Matricula: 11811EAU016
-Repositório Criado para inserir as tarefas de Sistemas Embarcados 2 realizadas no primeiro semestre de 2021.
+# Semana 02
+Essa pasta é referente a Semana 02 do curso de Sistemas Embarcados 2.
+O conteúdo dessa pasta é sobre uma playlist de tutorial de Python que pode ser acessado pelo link:
+https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
